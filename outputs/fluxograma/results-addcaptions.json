@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "b691cd20-b424-4b57-84b0-3e3dae1b46b4",
+  "content-length": "165",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a screenshot of a computer flowchart",
+    "confidence": 0.7694804668426514
+  },
+  "metadata": {
+    "width": 1706,
+    "height": 4169
+  }
+}
