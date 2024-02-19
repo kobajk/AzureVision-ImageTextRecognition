@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "5bacb2e0-e3d0-4bd6-a1db-70532793bb8d",
+  "content-length": "166",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a city street with cars and buildings",
+    "confidence": 0.6308174729347229
+  },
+  "metadata": {
+    "width": 1024,
+    "height": 1024
+  }
+}
